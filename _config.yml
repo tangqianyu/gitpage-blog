@@ -104,3 +104,9 @@ deploy:
   type: 'git'
   repo:  git@github.com:tangqianyu/tangqianyu.github.io.git
   branch: master
+
+
+search:
+  path: search.json
+  field: post
+  content: true
